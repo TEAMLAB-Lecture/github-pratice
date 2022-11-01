@@ -17,4 +17,4 @@
   - 이채원의 README 파일로 이동합니다
 
 -
-- README-sohyuncho.md : [링크](C:\Users\soh37\workspace\github-pratice\README-sohyuncho.md)
+- README-sohyuncho.md : [링크](./README-sohyuncho.md)
